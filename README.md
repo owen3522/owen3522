@@ -5,7 +5,7 @@
   - [Temperature and Humidity Monitoring at the Lowe Art Museum - Measurements Laboratory](https://github.com/owen3522/Temperature-and-Humidity-Monitoring-at-the-Lowe-Art-Museum/tree/main)
   - [NASA Lunabotics Challenge 2025](https://github.com/owen3522/Lunabotics)
   - [Water Powered Car - Intro to Engineering II](https://github.com/owen3522/Water-Powered-Car)
-  - [Two Piece Mating Bottle - Intro to Engineering II](https://github.com/owen3522/Water-Powered-Car)
+  - [Two Piece Mating Bottle - Intro to Engineering II](https://github.com/owen3522/Two-Mating-Piece-Bottle/blob/main/README.md)
 
 <h2>Certifications:</h2>
 
