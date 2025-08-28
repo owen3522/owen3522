@@ -18,7 +18,7 @@
 
 [<img align="left" alt="Owen Duffy | LinkedIn" width="48px" src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000" />][linkedin]
 
-[linkedin]: in/owen-duffy-1ab1b333a
+[linkedin]: https://www.linkedin.com/in/owen-duffy777/
 
 
 
