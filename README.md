@@ -3,7 +3,7 @@
 <h2>Engineering Projects:</h2>
 
   - [Temperature and Humidity Monitoring at the Lowe Art Museum](https://github.com/owen3522/Temperature-and-Humidity-Monitoring-at-the-Lowe-Art-Museum/tree/main)
-  - [NASA Lunabotics Challenge 2025](Lunabotics)
+  - [NASA Lunabotics Challenge 2025](https://github.com/owen3522/Lunabotics)
   - [Water Powered Car - Intro to Engineering II](112URL)
 
 <h2>Certifications:</h2>
