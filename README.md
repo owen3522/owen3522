@@ -13,6 +13,7 @@
 <h2>Certifications:</h2>
 
 - [Certified SOLIDWORKS CAD Design Associate (CSWA)](https://github.com/owen3522/SOLIDWORKS-Certification/blob/main/README.md)
+- [NAR Level 1 High Powered Rocketry Certification](https://github.com/owen3522/NAR-Level-1/blob/main/README.md)
 
 <h2> Connect with me:</h2>
 
